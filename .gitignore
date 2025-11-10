@@ -1,3 +1,4 @@
+# macOS
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -15,4 +16,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Miscellaneous
+draft/
+secrets/
+localdevicenotes.txt
+scratchpad.txt
 
