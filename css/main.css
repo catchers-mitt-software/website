@@ -2,6 +2,7 @@
 @import "light.css" (prefers-color-scheme: light);
 
 body { margin-left: 25%; margin-right: 25% }
+a:hover { font-weight: bold }
 
 @media only screen and (max-width: 425px) {
     body { margin-left: 2em; margin-right: 2em }
