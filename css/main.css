@@ -7,4 +7,5 @@ img#logo { height: 25%; width: 25% }
 
 @media only screen and (max-width: 425px) {
     body { margin-left: 2em; margin-right: 2em }
+    img#logo { height: 75%; width: 75%; display: block; margin: auto }
 }
